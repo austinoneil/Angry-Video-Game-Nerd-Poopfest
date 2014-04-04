@@ -1,0 +1,14 @@
+Content\Images\avgn.xnb
+Content\Images\background.xnb
+Content\Images\avgn2.xnb
+Content\Images\poop.xnb
+Content\games\NES\super_pitfall.xnb
+Content\games\NES\dr_jekyll.xnb
+Content\Images\poopsplat.xnb
+Content\games\NES\action_52.xnb
+Content\games\NES\hydlide.xnb
+Content\Images\explosion.xnb
+Content\fart.xnb
+Content\Sounds\fart.xnb
+Content\Sounds\splat.xnb
+Content\SpriteFont1.xnb

@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\avgn.png</Source>
+      <Name>Images\avgn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\avgn.xnb</Output>
+      <Time>2012-03-31T03:44:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\background.jpg</Source>
+      <Name>Images\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\background.xnb</Output>
+      <Time>2012-03-31T03:44:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\avgn2.png</Source>
+      <Name>Images\avgn2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\avgn2.xnb</Output>
+      <Time>2012-03-31T04:14:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\poop.png</Source>
+      <Name>Images\poop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\poop.xnb</Output>
+      <Time>2012-04-03T23:27:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>games\NES\super_pitfall.png</Source>
+      <Name>games\NES\super_pitfall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\games\NES\super_pitfall.xnb</Output>
+      <Time>2012-04-04T00:37:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>games\NES\dr_jekyll.png</Source>
+      <Name>games\NES\dr_jekyll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\games\NES\dr_jekyll.xnb</Output>
+      <Time>2012-04-04T01:49:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\poopsplat.png</Source>
+      <Name>Images\poopsplat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\poopsplat.xnb</Output>
+      <Time>2012-04-04T02:03:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>games\NES\action_52.png</Source>
+      <Name>games\NES\action_52</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\games\NES\action_52.xnb</Output>
+      <Time>2012-04-04T05:21:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>games\NES\hydlide.png</Source>
+      <Name>games\NES\hydlide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\games\NES\hydlide.xnb</Output>
+      <Time>2012-04-06T05:46:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\explosion.png</Source>
+      <Name>Images\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\explosion.xnb</Output>
+      <Time>2012-04-06T06:05:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fart.wav</Source>
+      <Name>fart</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fart.xnb</Output>
+      <Time>2012-04-03T23:46:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\fart.wav</Source>
+      <Name>Sounds\fart</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sounds\fart.xnb</Output>
+      <Time>2012-04-03T23:40:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\splat.wav</Source>
+      <Name>Sounds\splat</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sounds\splat.xnb</Output>
+      <Time>2012-04-04T05:01:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2012-04-04T05:02:42-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-21T16:43:37.9346395-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,40 @@
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\avgn.xnb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\avgn2.xnb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\poop.xnb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fart.xnb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\games\NES\super_pitfall.xnb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\games\NES\dr_jekyll.xnb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\poopsplat.xnb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sounds\fart.xnb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sounds\splat.xnb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\games\NES\action_52.xnb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\games\NES\hydlide.xnb
+C:\Users\Austin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\avgn.xnb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\avgn2.xnb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\poop.xnb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\games\NES\super_pitfall.xnb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\games\NES\dr_jekyll.xnb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\poopsplat.xnb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\games\NES\action_52.xnb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\games\NES\hydlide.xnb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Images\explosion.xnb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fart.xnb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sounds\fart.xnb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sounds\splat.xnb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Austin\Google Drive\Job application files\Supporting documents\Video game stuff\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
